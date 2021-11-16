@@ -1,0 +1,46 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Game Design"
+    ],
+    [
+      "Fine Arts",
+      "Performance Arts"
+    ],
+    [
+      "Fine Arts",
+      "Visual Arts"
+    ],
+    [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "a1799b4a-1599-d057-a85b-1f0521e4fd40",
+      "9985b44a-f362-713e-2f17-9a4510eda306"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Indistinguishable From... Magic as Interface, Technology, and Tradition",
+  "course_description": "With a focus on the creation of functional prototypes and practicing real magical crafts, this class combines theatrical illusion, game design, sleight of hand, machine learning, camouflage, and neuroscience to explore how ideas from ancient magic and modern stage illusion can inform cutting edge technology.\n",
+  "department_numbers": [
+    "MAS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "MAS.S66",
+  "learning_resource_types": [
+    "Design Assignments",
+    "Media Assignments"
+  ],
+  "title": "Course Metadata"
+}
